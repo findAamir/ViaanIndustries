@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Viaan Movie Listing</string>
+    <string name="for_udaipur">search_city</string>
+    <string name="result">results</string>
+    <string name="filter">filter</string>
+    <string name="powered_by"> Powered By </string>
+    <string name="hello_world">TheMovieDB</string>
+    <string name="film_title">Title</string>
+    <string name="film_language">Language</string>
+    <string name="film_language_value">English</string>
+    <string name="film_popularity">Release Dates</string>
+    <string name="film_popularity_value">2010</string>
+    <string name="film_overview">Who will survive-in one of the greatest escape adventures ever!</string>
+    <string name="error_button_ok_text">Ok</string>
+    <string name="error_title">Oooops</string>
+    <string name="network_unavailable">It seems you are not connected with Internet</string>
+    <string name="sign_in_with_google">Sign In With Google</string>
+    <string name="movies_ticketo">Movies Ticketo</string>
+    <string name="logout">Log Out</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "812735014788",
+    "firebase_url": "https://viaan-industries.firebaseio.com",
+    "project_id": "viaan-industries",
+    "storage_bucket": "viaan-industries.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812735014788:android:975a46545d4011e9769fd1",
+        "android_client_info": {
+          "package_name": "com.example.viaanmovielisting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812735014788-iapjacroqkt9n3ru927npjr29ppa3g8g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.viaanmovielisting",
+            "certificate_hash": "be51b85863ff38080d05d3a2518f5c1f366e2325"
+          }
+        },
+        {
+          "client_id": "812735014788-lqppuup0dsi2c6al9c7hq13sidh8qe4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPOcAWUQufPE47qX2P9kFHXbCx4ZJvROE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812735014788-lqppuup0dsi2c6al9c7hq13sidh8qe4q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
