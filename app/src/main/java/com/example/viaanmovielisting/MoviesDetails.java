@@ -33,7 +33,6 @@ public class MoviesDetails extends AppCompatActivity {
            String Overview=(String) bundle.get("movieOverView");
            String Language=(String) bundle.get("movieLanguage");
            String movieRelease = (String)bundle.get("movieRelease");
-            Toast.makeText(this, "image"+movieThumbnail, Toast.LENGTH_SHORT).show();
             Glide.with(getApplicationContext())
                     .load(movieThumbnail)
                     .thumbnail(0.1f)
